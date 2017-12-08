@@ -1,0 +1,16 @@
+PODS:
+  - TwitterQuery (0.1.0)
+
+DEPENDENCIES:
+  - TwitterQuery (from `../`)
+
+EXTERNAL SOURCES:
+  TwitterQuery:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TwitterQuery: 5b193bc4f4479fdfde188e1efaa9e76448eeb414
+
+PODFILE CHECKSUM: d6ca541afc98c206672b70405809fd699d6e431a
+
+COCOAPODS: 1.4.0.beta.2

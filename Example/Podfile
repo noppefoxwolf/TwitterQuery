@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'TwitterQuery_Example' do
+  pod 'TwitterQuery', :path => '../'
+end
